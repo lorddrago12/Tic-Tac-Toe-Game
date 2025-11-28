@@ -117,3 +117,4 @@ while gameRunning:
         print("It's a tie!")
         gameRunning = False
         break
+        print("Game Over")
